@@ -1,0 +1,11 @@
+1. make a folder with your roll number
+2. go to the folder
+3. create an empty file there with your name
+4. come 1 step back from the folder
+5. use tree to see the structure
+6. see hidden directories in that folder
+7. make another simple Directory with the name of that one specific directory
+  eg: if the hidden directory is .pic -> then you need to create a folder .pic_you-roll-number
+8. go to that newly created directory
+9. create a file there with your name and go one step backwards from the folder
+10. all steps are completed now you can run the remaining commands
